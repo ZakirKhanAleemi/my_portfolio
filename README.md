@@ -1,12 +1,10 @@
-# [My Portfolio Website](http://melissautomo.com/)
+# [My Portfolio Website](https://github.com/ZakirKhanAleemi/portfolio)
 
 This is a one page personal portfolio site using that uses the [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Preview
 
-![Front Page Preview](readme_images/front_page.png)
-
-**[View Live](http://melissautomo.com/)**
+**[View Live](https://github.com/ZakirKhanAleemi/portfolio/)**
 
 ## Usage
 
